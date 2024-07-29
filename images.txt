@@ -5,6 +5,6 @@ prom/pushgateway:latest
 prom/mysqld-exporter:latest
 quay.io/prometheus/haproxy-exporter:latest
 prom/prometheus:latest
-google/cadvisor:latest
+gcr.io/cadvisor/cadvisor-amd64:v0.50.0
 quay.io/oliver006/redis_exporter:latest
 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
