@@ -1,6 +1,1 @@
-kubernetesui/dashboard:v2.7.0
-kubernetesui/metrics-scraper:v1.0.8
-ghcr.io/kube-vip/kube-vip:latest
-ghcr.io/helm/chartmuseum:v0.14.0
-docker.elastic.co/elasticsearch/elasticsearch:8.12.2
 kubesphere/ks-installer:v3.4.1
