@@ -1,1 +1,2 @@
 typesense/typesense:0.24.1
+proxysql/proxysql:latest
