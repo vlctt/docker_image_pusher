@@ -1,2 +1,1 @@
-typesense/typesense:0.24.1
-proxysql/proxysql:latest
+container-registry.oracle.com/mysql/community-operator:8.0.38-2.0.15
