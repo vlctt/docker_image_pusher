@@ -1,3 +1,5 @@
 container-registry.oracle.com/mysql/community-operator:8.0.38-2.0.15
 container-registry.oracle.com/mysql/community-server:8.0.38
 container-registry.oracle.com/mysql/community-router:8.0.38
+pymumu/smartdns:latest
+adguard/adguardhome:latest
