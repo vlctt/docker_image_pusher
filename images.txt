@@ -1,2 +1,7 @@
-adguard/adguardhome:latest
+quay.io/prometheus-operator/prometheus-operator
+quay.io/thanos/thanos:v0.36.1
+quay.io/prometheus/prometheus:v2.54.0
+quay.io/oauth2-proxy/oauth2-proxy:v7.5.1
+quay.io/prometheus/alertmanager:v0.27.0
+quay.io/prometheus-operator/admission-webhook
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20221220-controller-v1.5.1-58-g787ea74b6
