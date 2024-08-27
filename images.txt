@@ -8,3 +8,7 @@ registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20221220-controller-v1.5.1-5
 docker.io/grafana/grafana:11.1.4
 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
 quay.io/prometheus-operator/prometheus-config-reloader:v0.76.0
+chengshiwen/influx-proxy:2.5.12
+influxtsdb/influxdb-admin:1.2.4
+chengshiwen/influxdb:1.8.10-c1.1.2-data
+chengshiwen/influxdb:1.8.10-c1.1.2-meta
