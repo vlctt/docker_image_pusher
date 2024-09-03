@@ -1,2 +1,1 @@
 germey/proxypool:master
-adguardhome:latest
