@@ -1,3 +1,5 @@
 githubgermey/proxypool:master
 gists/nfs-server:latest
 registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.11.1
+registry.k8s.io/sig-storage/livenessprobe:v2.13.1
+registry.k8s.io/sig-storage/smbplugin:v1.16.0
