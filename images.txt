@@ -1,5 +1,1 @@
-registry.k8s.io/sig-storage/smbplugin:v1.16.0
-registry.k8s.io/sig-storage/livenessprobe:v2.13.1
-registry.k8s.io/sig-storage/csi-provisioner:v5.0.2
-registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.11.1
-ghcr.io/kubernetes-sigs/sig-windows/csi-proxy:v1.1.2
+docker.io/bitnami/rabbitmq:3.12.4-debian-11-r0
