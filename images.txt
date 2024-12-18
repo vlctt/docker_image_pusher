@@ -1,1 +1,1 @@
-quay.io/vbouchaud/nfs-client-provisioner:latest
+quay.io/external_storage/nfs-client-provisioner-arm:latest
