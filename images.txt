@@ -2,3 +2,4 @@ registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20221220-controller-v1.5.1-5
 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.14.0
 quay.io/prometheus-operator/prometheus-operator:v0.79.1
 quay.io/prometheus/alertmanager:v0.27.0
+quay.io/prometheus/prometheus:v3.0.1
