@@ -1,1 +1,1 @@
-quay.io/external_storage/nfs-client-provisioner-arm:latest
+docker.io/bitnami/zookeeper:3.9.3-debian-12-r2
