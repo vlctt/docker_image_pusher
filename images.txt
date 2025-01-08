@@ -1,3 +1,2 @@
-minio/mc:RELEASE.2018-07-13T00-53-22Z
-minio/minio:RELEASE.2017-12-28T01-21-00Z
-
+docker.io/bitnami/bitnami-shell:11-debian-11-r11
+docker.io/bitnami/redis/6.2.7-debian-11-r11
