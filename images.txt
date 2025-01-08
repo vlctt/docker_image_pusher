@@ -1,7 +1,7 @@
-docker.io/bitnami/bitnami-shell:11-debian-11-r11
-docker.io/bitnami/redis/6.2.7-debian-11-r11
-docker.io/bitnami/postgres-exporter:0.12.0-debian-11-r86
 quay.io/prometheus/prometheus:v2.38.0
 jimmidyson/configmap-reload:v0.5.0
+prom/pushgateway:v1.4.3
+quay.io/prometheus/prometheus:v2.39.1
+quay.io/prometheus/node-exporter:v1.3.1
 docker.io/bitnami/redis-exporter:1.46.0-debian-11-r8
 quay.io/prometheus/prometheus:v2.38.0
