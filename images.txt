@@ -1,2 +1,5 @@
-goharbor/registry-photon:v2.12.0
-goharbor/harbor-exporter:v2.12.0
+quay.io/jetstack/cert-manager-controller:v1.16.2
+quay.io/jetstack/cert-manager-webhook:v1.16.2
+quay.io/jetstack/cert-manager-cainjector:v1.16.2
+quay.io/jetstack/cert-manager-acmesolver:v1.16.2
+quay.io/jetstack/cert-manager-startupapicheck:v1.16.2
