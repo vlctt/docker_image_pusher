@@ -1,3 +1,1 @@
-registry.k8s.io/ingress-nginx/controller:v1.12.0
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.0
-registry.k8s.io/defaultbackend-amd64:1.5
+ghcr.io/librespeed/speedtest:latest
