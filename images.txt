@@ -1,1 +1,1 @@
-ghcr.io/librespeed/speedtest:latest
+ghcr.io/open-webui/open-webui:main
