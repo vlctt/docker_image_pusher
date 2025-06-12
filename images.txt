@@ -8,3 +8,6 @@ docker.io/library/redis:6.2
 docker.io/prom/prometheus:v2.54.1
 docker.io/flashcatcloud/categraf:latest
 docker.io/flashcatcloud/nightingale:7.0.0
+container-registry.oracle.com/mysql/community-operator:8.0.42-2.0.18
+container-registry.oracle.com/mysql/community-server:8.0.42
+container-registry.oracle.com/mysql/community-router:8.0.42
