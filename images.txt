@@ -1,5 +1,6 @@
 cr.yandex/crp9ftr22d26age3hulg/yandex-cloud/csi-s3/csi-node-driver-registrar:v1.2.0
 cr.yandex/crp9ftr22d26age3hulg/yandex-cloud/csi-s3/csi-provisioner:v2.1.0
 cr.yandex/crp9ftr22d26age3hulg/yandex-cloud/csi-s3/csi-s3-driver:0.43.0
+cr.yandex/crp9ftr22d26age3hulg/yandex-cloud/csi-s3/csi-s3:0.43.0
 minio/minio:RELEASE.2025-05-24T17-08-30Z
 minio/mc:RELEASE.2025-05-21T01-59-54Z
