@@ -1,6 +1,4 @@
-selectdb/alpine:latest
-selectdb/doris.be-ubuntu:3.0.6
-selectdb/doris.fe-ubuntu:3.0.6
+mysql:8.4.5
 quay.io/jcmoraisjr/haproxy-ingress:v0.14.8
 haproxy:2.4.28-alpine
 quay.io/prometheus/haproxy-exporter:v0.11.0
