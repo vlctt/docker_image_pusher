@@ -1,3 +1,8 @@
 selectdb/alpine:latest
-selectdb/doris.be-ubuntu:3.0.2
-selectdb/doris.fe-ubuntu:3.0.2
+selectdb/doris.be-ubuntu:3.0.6
+selectdb/doris.fe-ubuntu:3.0.6
+quay.io/jcmoraisjr/haproxy-ingress:v0.14.8
+haproxy:2.4.28-alpine
+quay.io/prometheus/haproxy-exporter:v0.11.0
+whereisaaron/kube-syslog-sidecar:latest
+registry.k8s.io/defaultbackend-amd64:1.5
