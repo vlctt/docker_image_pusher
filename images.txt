@@ -1,4 +1,1 @@
-quay.io/jetstack/cert-manager-controller:v1.18.1
-quay.io/jetstack/cert-manager-cainjector:v1.18.1
-quay.io/jetstack/cert-manager-webhook:v1.18.1
-juicedata/mount:ee-5.1.2-59d9736
+nacos/nacos-server:v3.0.2
