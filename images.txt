@@ -1,1 +1,1 @@
-beck8/subs-check:2.3.3
+dreamacro/clash-premium:latest
