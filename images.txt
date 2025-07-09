@@ -1,1 +1,2 @@
-dreamacro/clash-premium:latest
+quay.io/jetstack/cert-manager-acmesolver:v1.18.1
+quay.io/jetstack/cert-manager-startupapicheck:v1.18.1
