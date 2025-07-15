@@ -1,4 +1,1 @@
-apache/doris:fe-3.0.6.1
-apache/doris:be-3.0.6.1
-apache/doris:broker-3.0.6.1
-apache/doris:operator-25.5.3
+apache/doris:operator-latest
