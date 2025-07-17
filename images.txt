@@ -1,2 +1,2 @@
-ghcr.io/nginx/nginx-gateway-fabric/nginx:2.0.2
-ghcr.io/nginx/nginx-gateway-fabric:2.0.2
+ghcr.io/nginx/nginx-gateway-fabric:1.6.2
+ghcr.io/nginx/nginx-gateway-fabric/nginx:1.6.2
