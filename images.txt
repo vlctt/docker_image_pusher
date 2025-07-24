@@ -1,2 +1,4 @@
 quay.io/oceanbase/ob-operator:2.3.2
 oceanbase/kube-rbac-proxy:v0.13.1
+oceanbase/oceanbase-cloud-native:4.2.1.6-106000012024042515
+oceanbase/oceanbase-cloud-native:4.3.5.2-102020032025070315
