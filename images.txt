@@ -1,4 +1,4 @@
-quay.io/oceanbase/ob-operator:2.3.2
-oceanbase/kube-rbac-proxy:v0.13.1
-oceanbase/oceanbase-cloud-native:4.2.1.6-106000012024042515
-oceanbase/oceanbase-cloud-native:4.3.5.2-102020032025070315
+docker.io/bitnami/kafka:4.0.0-debian-12-r8
+docker.io/bitnami/os-shell:12-debian-12-r48
+docker.io/bitnami/kubectl:1.33.3-debian-12-r0
+docker.io/bitnami/jmx-exporter:1.3.0-debian-12-r4
