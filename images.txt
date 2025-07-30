@@ -1,2 +1,1 @@
-chengshiwen/influxdb:1.8.11-c1.2.0-meta
-chengshiwen/influxdb:1.8.11-c1.2.0-data
+chengshiwen/influx-proxy:3.0.0
