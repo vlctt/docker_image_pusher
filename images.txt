@@ -1,6 +1,6 @@
 cubefs/cfs-server:v3.5.2
 cubefs/cfs-client:v3.5.2
-cubefs/blobstore:v3.5.2
+cubefs/blobstore:v3.4.0
 cubefs/cfs-csi-driver:v3.5.2
 registry.k8s.io/sig-storage/csi-provisioner:v2.2.2
 registry.k8s.io/sig-storage/csi-attacher:v3.4.0
