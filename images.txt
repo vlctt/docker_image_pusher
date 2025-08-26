@@ -1,1 +1,2 @@
-itzcrazykns1337/perplexica:main
+intelanalytics/ipex-llm-serving-xpu:latest
+intelanalytics/ipex-llm-inference-cpp-xpu:latest
