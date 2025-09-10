@@ -1,1 +1,1 @@
-szabis/iventoy:latest
+ghcr.io/beck-8/subs-check:latest
