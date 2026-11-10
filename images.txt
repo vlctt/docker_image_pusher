@@ -1,1 +1,1 @@
-pymumu/smartdns:latest
+docker.io/flashcatcloud/categraf:v0.5.22
