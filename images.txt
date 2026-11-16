@@ -1,1 +1,1 @@
-docker.io/flashcatcloud/categraf:v0.5.22
+daitcl/mihomo:v1.19.34
